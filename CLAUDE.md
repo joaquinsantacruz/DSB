@@ -7,7 +7,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 Course material for UNLP Facultad de Informática, "Desarrollo de Software para Blockchain" (Cursada 2026). It is not a code project: there is no build, lint, or test tooling, and no solution code yet. It is a git repo (branch `main`, remote `origin` = github.com/joaquinsantacruz/DSB). All source content is in Spanish.
 
 - `Teorias/`: lecture slides (Bitcoin basics, Ethereum, Solidity/EVM, Web3, Brownie, Rust, Solana/Anchor, ERC-20/ERC-721, patterns, oracles, bridges).
-- `Ejercicios/`: the five graded assignments.
+- `Ejercicios/EjN/`: one folder per graded assignment, holding its statement (`EjercitaciónN.md`) and its solution.
 - `Videos/`: lecture transcripts plus `links.md`, which maps each video title (same as the transcript filename) to its YouTube URL. Clase 01 ("sin sonido") and the videos marked "no tiene subs" (Web3, Brownie P1, Rust P1/P2) have no transcript. The five `EVM (… Parte) | Taller Avanzado…` transcripts are an external EVM deep-dive workshop (Germán Küber), not course lectures.
 
 The number prefixes in `Teorias/`, `Videos/`, and `links.md` do not agree with each other (`Teorias/03- Rust.md` vs `links.md` "03- Web3"), so match topics by name, not by number.
